@@ -85,6 +85,6 @@ ArrayList Week;
     }
 
     private void Clear() {
-        
+        "";
     }
 }
